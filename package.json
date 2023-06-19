@@ -1,6 +1,7 @@
 {
   
   "name": "color_picker",
+  "homepage": "https://darshni-05.github.io/REACT-Color-Picker/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
